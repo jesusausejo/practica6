@@ -24,6 +24,9 @@ a:hover{
 .cleaner_with_height{
 	clear: both;
 }
+.cleaner{
+	clear: both;
+}
 #cabecera{
 
 }
@@ -41,16 +44,19 @@ a:hover{
     margin-bottom: 10px;
 }
 #left_section{
+	float: left;
 	width: 410px;
 	margin-left: 0px;
 	margin-right: 0px;
 }
 #middle_section{
+	float: left;
 	width: 180px;
 	margin-left: 15px;
 	margin-right: 0px;
 }
 #rigth_section{
+	float: right;
 	width: 322px;
 	margin-right: 10px;
 	margin-left: 0px;
@@ -59,10 +65,12 @@ a:hover{
 
 }
 #logo{
+	float: left;
 	width:385px;
 	height:55px;
 }
 #search{
+	float: right;
 	width:320px;
 	height:70px;
 }
