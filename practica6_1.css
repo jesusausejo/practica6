@@ -77,3 +77,67 @@ a:hover{
 #menu{
 
 }
+.rigth_section_box{
+	margin-bottom: 15px;
+	margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 10px;
+    border: 1px solid;
+    border-color:#ccc;
+}
+.rigth_section_box h1{
+	color:#c60;
+	text-decoration: underline;
+	font-size: 15px;
+	margin-bottom: 8px;
+	margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+.rigth_section_box h2{
+	color:#333;
+	font-size: 11px;
+	margin:0;
+    padding: 0px;
+}
+.rigth_section_box h2 a{
+	color:#333;
+	font-size: 11px;
+	margin:0;
+    padding: 0px;
+    text-decoration: none;
+}
+.rigth_section_box h2 a:hover {
+    text-decoration: underline;
+}
+.rigth_section_box p{
+	color:#333;
+	text-align: justify;
+	font-size: 11px;
+	margin-bottom: 20px;
+	margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+.rigth_section_box p.last{
+	color:#333;
+	text-align: justify;
+	font-size: 11px;
+	margin: 0px
+    padding: 0px;
+}
+#galeria{
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+}
+#adver img{
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+}
