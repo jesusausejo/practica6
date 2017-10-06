@@ -141,3 +141,47 @@ a:hover{
 	margin-right: 0px;
 	margin-bottom: 5px;
 }
+#left_section_box{
+	margin-bottom: 15px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+}
+#box_contenido img{
+	float: left;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 13px;
+	display: inline;
+}
+#box_contenido{
+	width:380px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:15px;
+	padding-bottom: 0px;
+}
+#box_cabecera{
+	width:395px;
+	height:20px;
+	background-image: url("images/section_box_top.jpg");
+	background-repeat: repeat-x;
+	font-weight: bold;
+	color:#666;
+	font-size: 16px;
+	padding-top: 10px;
+	padding-left: 15px;
+}
+.post{
+	margin-top: 25px;
+	color:#c60;
+	font-size: 11px;
+}
+.post a{
+	color:#c60;
+    text-decoration: none;
+}
+.post a:hover {
+    text-decoration: underline;
+}
