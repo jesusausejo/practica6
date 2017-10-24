@@ -1,0 +1,2 @@
+sprites: 10.1KB
+imágenes sueltas: 7.61KB
